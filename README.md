@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS, Docker, Tailwind CSS,AWS**
 
-- 👯 Previous collaboration [TakeME](https://devpost.com/software/takeme-40o6nd)
+- 👯 Previous collaboration [TakeME](https://devpost.com/software/takeme-40o6nd) ** and **[Beacon](https://devpost.com/software/beacon-35iq2v)
 
 - 💬 Ask me about **C++, nodeJS, React**
 
